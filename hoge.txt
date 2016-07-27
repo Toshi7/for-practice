@@ -1,4 +1,5 @@
 1 I changed it on gitbash
+ this line causes conflict!!!! :(
 2 File is rechanged by takatoshi
 3 File is changed three time
 4 File is changed fourth time
