@@ -1,4 +1,4 @@
-1 File is changed by takatoshi
+1 I changed it on gitbash
 2 File is rechanged by takatoshi
 3 File is changed three time
 4 File is changed fourth time
