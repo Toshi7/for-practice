@@ -4,12 +4,4 @@
 3 File is changed three time
 4 File is changed fourth time
 5 File is changed fifth time
-<<<<<<< HEAD
-<<<<<<< HEAD
 6 If this line shows up, revert is not working properly
-=======
-6 It this line shows up, revert is not working properly
->>>>>>> parent of af03060... added_comments_to_hoge.txt
-=======
-6 It this line shows up, revert is not working properly
->>>>>>> parent of c65d4cb... Merge pull request #3 from Toshi7/practice_revert2
