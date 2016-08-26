@@ -4,4 +4,6 @@
 3 File is changed three time
 4 File is changed fourth time
 5 File is changed fifth time
-6 It this line shows up, revert is not working properly
+6 If this line shows up, revert is not working properly
+7 added one line
+8 added second line
