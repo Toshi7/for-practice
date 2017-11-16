@@ -3,4 +3,4 @@ IBM Bluemix,cross platform (web application),"Java, Node.js, Go, PHP, Swift, Pyt
 Ruby on Rails and can be extended to support other languages such as Scala through the use of buildpacks..",,,https://console.bluemix.net/,,
 Neural Network Console by sony,Windows,,,,,,
 Neural Network Console Cloud by sony,cross platform (web application),,,,,,
-Node-RED,"ブラウザ上でFlowを編集, Node.js上に構築, ",,,,,,
+Node-RED,"ブラウザ上でFlowを編集, Node.js上に構築, ",,,,[Node-RED](https://nodered.org/),,
