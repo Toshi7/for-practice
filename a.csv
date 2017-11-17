@@ -1,5 +1,4 @@
 AI API,Characteristic,Price,Documentation language,学習追加可能,Interface
-Microsoft Azure Cognitive Services,"Its strength is that it can interpret complex queries expressed in natural language, consult many data sources, generate many possible answers, score them based on evidence, and select answers with good accuracy.",,,,
 Microsoft Azure Cognitive Services,[Computer Vision API](https://www.microsoft.com/cognitive-services/en-us/computer-vision-api),,,,HTTP REST API
 """",LUIS(Language understanding Intelligent Service) works significantly faster than others on our tests.,,,,HTTP REST API
 AWS,,,,,
