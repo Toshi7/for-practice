@@ -1,7 +1,7 @@
 AI Company,API Name,Characteristic,Price,Documentation language,Adding your own data for training,Interface,"Analysis/Recognition/Translating"
 Microsoft Azure Cognitive Services,API Name Below,,,,,HTTP REST API,
 """",LUIS,Teach your apps to understand commands from your users. LUIS(Language understanding Intelligent Service) works significantly faster than others on our tests.,,,,HTTP REST API,
-"""",Microsoft Computer Vision,Distill actionale information from images."Microsoft Computer Vision API has many of the same features as Google Cloud Vision and IBM Watson, including celebrity detection and OCR. An interesting piece of this API is that in addition to listing tags along with confidence predictions it also attempts to generate a natural-language description based on those tags.",,,,HTTP REST API,
+"""",Microsoft Computer Vision,"Distill actionale information from images. Microsoft Computer Vision API has many of the same features as Google Cloud Vision and IBM Watson, including celebrity detection and OCR. An interesting piece of this API is that in addition to listing tags along with confidence predictions it also attempts to generate a natural-language description based on those tags.",,,,HTTP REST API,
 AWS,API Name Below,,,,,,
 """",Amazon Rekognition,"Enables detection of objects, scenes, and faces in images, as well as search and compare faces between images. Amazon Rekognition is Amazon’s image recognition API, which (unsurprisingly) integrates with other AWS services.",,,,,
 """",Amazon Polly,A service that runs text into lifelike speech that enables a build of entirely new categories of speech-enabled products,,,,,
