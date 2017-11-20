@@ -9,7 +9,7 @@ AWS,API Name Below,,,,,,
 """",Alexa Skills Kit（ASK）,,,,,,
 """",Alexa Voice Services（AVS）,,,,,,Voice
 Google API,API Name Below,,,,,,
-"""",Google Cloud Vision,Derive insight from images with their powerful Cloud Vision API. Google Cloud Vision API is Google’s visual recognition API, based on the open-source TensorFlow framework and using a REST API. It detects individual objects and faces and contains a pretty comprehensive set of labels. It also comes with a few bells and whistles, including Optical Character Recognition (OCR) and integration with Google Image Search to find related entities and similar images from the web.","First 1000 units/month(Free), https://cloud.google.com/vision/pricing",,NO,HTTP REST API,Image
+"""",Google Cloud Vision,"Derive insight from images with their powerful Cloud Vision API. Google Cloud Vision API is Google’s visual recognition API, based on the open-source TensorFlow framework and using a REST API. It detects individual objects and faces and contains a pretty comprehensive set of labels. It also comes with a few bells and whistles, including Optical Character Recognition (OCR) and integration with Google Image Search to find related entities and similar images from the web.","First 1000 units/month(Free), https://cloud.google.com/vision/pricing",,NO,HTTP REST API,Image
 """",Google Video Intelligence Private BETA,Search and discover your media content with powerful Cloud Video Intelligence API,,,,,Video
 """",Google Cloud Natural Language,Derive insights from unstructured text using Google machine learning,,,NO,HTTP REST API,Language
 """",Google Cloud Speech,Speech to text conversation powred by machine learning,"0-60 minutes(Free), 61+ - 1 million minutes($0.006 / 15 seconds*)",,NO,,
